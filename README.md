@@ -1,3 +1,3 @@
 # netend-game
 Game for NetEnt
-you can see demo on ozluy.github.io/projects/netend-game 
+you can see demo on http://ozluy.github.io/projects/netend-game 
